@@ -1,8 +1,8 @@
 
 /* Your CSS Code here. */
-div{
+.holder{
 	border:1px  black;
 	display:flex;
-	justify-content: space-between
-	flex:wrap;
+	justify-content: space-between;
+	flex-wrap: wrap;
 }
