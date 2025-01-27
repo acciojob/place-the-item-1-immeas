@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+div{
+	border:1px  black;
+	display:flex;
+	justify-content: space-between
+	flex:wrap;
+}
